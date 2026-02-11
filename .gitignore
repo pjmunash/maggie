@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+songs_reencoded*
+public/songs/
+public/songs_normalized/
